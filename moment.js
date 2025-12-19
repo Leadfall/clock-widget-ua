@@ -5685,7 +5685,6 @@
 
     return hooks;
 
-})));
     //! moment.js locale configuration
 
     function plural$6(word, num) {
@@ -5847,4 +5846,5 @@
             dow: 1, // Monday is the first day of the week.
             doy: 7, // The week that contains Jan 7th is the first week of the year.
         },
-    });
+    });               
+})));

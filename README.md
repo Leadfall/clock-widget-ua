@@ -1,5 +1,4 @@
 Віджет годинника Українською 
-
 https://leadfall.github.io/clock-widget-ua/
 
 або версія Англійською: https://leadfall.github.io/clock-widget-ua/?locale=en
@@ -15,4 +14,8 @@ https://leadfall.github.io/clock-widget-ua/
 <aside>
 ℹ️
 Більше варіантів форматування дивіться на https://momentjs.com/docs/#/displaying/
-</aside>
+</aside><br/>
+<br/>
+
+>Спрощена версія цього віджета *(в технічному плані, але без гнучкої кастомізації)*:<br/>
+>https://github.com/Leadfall/clock-widget-ua-simple

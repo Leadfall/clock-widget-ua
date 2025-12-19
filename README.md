@@ -1,7 +1,8 @@
 Віджет годинника Українською 
-*(з можливістю перемкнути на Англійську додавши у посилання **?locale=en**)*
 
 https://leadfall.github.io/clock-widget-ua/
+
+або версія Англійською: https://leadfall.github.io/clock-widget-ua/?locale=en
 
 Формат дати можна налаштувати, додавши **?dateFormat=** до URL-адреси.
 Нижче наведено кілька прикладів:

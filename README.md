@@ -14,22 +14,3 @@ https://leadfall.github.io/clock-widget-ua/
 ℹ️
 Більше варіантів форматування дивіться на https://momentjs.com/docs/#/displaying/
 </aside>
-
-Custom CSS Template (Optional)
----
-```css
-body {
-	background-color: rgba(0, 0, 0, 0);
-	margin: 0px auto;
-	overflow: hidden;
-}
-
-#timeLabel {
-	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
-	font-size: 50px;
-}
-
-#mainContainer {
-	text-align: center;
-}
-```

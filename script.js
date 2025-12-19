@@ -4,8 +4,7 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const dateFormat = urlParams.get("dateFormat") || 'ddd DD MMM yyyy HH:mm:ss';
 
-const localeParam = urlParams.get('locale');
-moment.locale(localeParam === 'en' ? 'en' : 'uk');
+moment.locale('uk'); // або логіку з ?locale=en
 
 // FUNCTIONS
 

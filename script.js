@@ -73,7 +73,7 @@ const dateFormat = urlParams.get("dateFormat") || 'ddd DD MMM yyyy hh:mm:ss A';
         };
     }
 
-    hooks.defineLocale('uk', {
+    moment.defineLocale('uk', {
         months: {
             format: 'січня_лютого_березня_квітня_травня_червня_липня_серпня_вересня_жовтня_листопада_грудня'.split(
                 '_'

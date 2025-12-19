@@ -1,3 +1,7 @@
+Віджет годинника Українською
+
+https://leadfall.github.io/clock-widget-ua/
+
 Формат дати можна налаштувати, додавши **?dateFormat=** до URL-адреси.
 Нижче наведено кілька прикладів:
 | Приклад | **?dateFormat=** | **URL** |
@@ -10,3 +14,22 @@
 ℹ️
 Більше варіантів форматування дивіться на https://momentjs.com/docs/#/displaying/
 </aside>
+
+Custom CSS Template (Optional)
+---
+```css
+body {
+	background-color: rgba(0, 0, 0, 0);
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+#timeLabel {
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+	font-size: 50px;
+}
+
+#mainContainer {
+	text-align: center;
+}
+```
